@@ -1,0 +1,68 @@
+All
+---
+Who has access: Anyone with a CS account.
+
+linux.cs.uchicago.edu
+ - linux1.cs.uchicago.edu
+ - linux2.cs.uchicago.edu
+
+This is the new official shell host for the Department of Computer Science.
+Please use linux.cs.uchicago.edu as your first choice to ssh into.
+
+Specs:
+ - 16 Cores (2x 8core 3.1GHz Processors), 16 threads
+ - 64gb RAM
+ - 2x 500gb SATA 7200RPM in RAID1
+
+The list of machines below are subject to change without notice. Please use linux.cs.uchicago.edu
+as your main shell server as it is configured to be the same as the machines in the CSIL.
+
+
+
+CSIL
+
+Specs:
+ - Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz -> Quad Core, 8 threads
+ - 16gb RAM
+ - Single 500gb SATA 7200RPM
+
+machoke
+machamp
+bellsprout
+weepinbell
+victreebel
+tentacool
+tentacruel
+geodude
+graveler
+golem
+ponyta
+rapidash
+slowpoke
+slowbro
+magnemite
+magneton
+farfetchd
+doduo
+seel
+dewgong
+grimer
+muk
+shellder
+cloyster
+gastly
+haunter
+gengar
+onix
+drowzee
+hypno
+krabby
+kingler
+voltorb
+electrode
+exeggutor
+cubone
+marowak
+hitmonchan
+lickitung
+koffing
